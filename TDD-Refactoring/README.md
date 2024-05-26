@@ -1,5 +1,5 @@
 # Especificação do projeto:
-- Deve-se implementar um sistema que permita que os usuários pesquisem e
+Deve-se implementar um sistema que permita que os usuários pesquisem e
 reservem livros de sua escolha. O sistema deve fornecer informações sobre
 livros disponíveis, títulos e permitir que os usuários selecionem e reservem
 livros.
