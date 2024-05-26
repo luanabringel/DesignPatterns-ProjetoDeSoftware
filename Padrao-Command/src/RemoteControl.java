@@ -1,4 +1,6 @@
-public class ControleRemoto{
+package src;
+
+public class RemoteControl {
     private Command comando;
 
     public void setCommand(Command comando){

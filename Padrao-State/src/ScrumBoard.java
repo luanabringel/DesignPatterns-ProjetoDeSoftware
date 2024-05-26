@@ -1,3 +1,5 @@
+package src;
+
 public class ScrumBoard{
     public static void main(String[] args) {
         UserStory userStory = new UserStory();

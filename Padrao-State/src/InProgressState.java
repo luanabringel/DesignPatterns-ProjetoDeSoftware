@@ -1,4 +1,6 @@
-public class InProgressState implements UserStoryState{
+package src;
+
+public class InProgressState implements UserStoryState {
 
     @Override
     public void mover(UserStory us, Cargo cargo){

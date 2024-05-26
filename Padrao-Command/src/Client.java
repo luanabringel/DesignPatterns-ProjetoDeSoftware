@@ -1,4 +1,6 @@
-public class Cliente{
+package src;
+
+public class Client {
     public static void main(String[] args) {
         Radio radio = new Radio();
             
@@ -7,7 +9,7 @@ public class Cliente{
         Command goBackCommand = new GoBackCommand(radio);
         Command goForwardCommand = new GoForwardCommand(radio);
             
-        ControleRemoto controle = new ControleRemoto();
+        RemoteControl controle = new RemoteControl();
 
         controle.setCommand(playCommand);
         controle.selecionarBotao();

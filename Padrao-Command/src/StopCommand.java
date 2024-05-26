@@ -1,3 +1,5 @@
+package src;
+
 public class StopCommand implements Command{
     private Radio radio;
     

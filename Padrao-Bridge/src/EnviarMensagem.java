@@ -1,3 +1,5 @@
+package src;
+
 abstract class EnviarMensagem {
     protected String destinatario;
     protected Mensagem tipoMensagem;

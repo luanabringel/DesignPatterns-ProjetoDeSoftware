@@ -1,3 +1,5 @@
+package src;
+
 public class GoBackCommand implements Command{
     private Radio radio;
     

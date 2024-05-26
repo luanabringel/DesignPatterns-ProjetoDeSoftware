@@ -1,5 +1,6 @@
+package src;
 
-public class ToVerifyState implements UserStoryState{
+public class ToVerifyState implements UserStoryState {
 
     @Override
     public void mover(UserStory us, Cargo cargo){

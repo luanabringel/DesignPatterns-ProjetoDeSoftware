@@ -1,3 +1,5 @@
+package src;
+
 class Slack extends EnviarMensagem {
 
     public Slack(String destinatario, Mensagem tipoMensagem) {

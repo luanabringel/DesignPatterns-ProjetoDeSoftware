@@ -1,3 +1,5 @@
+package src;
+
 class Texto implements Mensagem {
     private String mensagem;
 
@@ -7,6 +9,6 @@ class Texto implements Mensagem {
 
     @Override
     public String corpoMensagem() {
-        return "Mensagem em texto: " + mensagem;
+        return "src.Mensagem em texto: " + mensagem;
     }
 }

@@ -1,3 +1,5 @@
+package src;
+
 class Voz implements Mensagem {
     private String mensagem;
 
@@ -7,6 +9,6 @@ class Voz implements Mensagem {
 
     @Override
     public String corpoMensagem() {
-        return "Mensagem em voz: " + mensagem;
+        return "src.Mensagem em voz: " + mensagem;
     }
 }

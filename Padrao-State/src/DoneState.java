@@ -1,4 +1,6 @@
-public class DoneState implements UserStoryState{
+package src;
+
+public class DoneState implements UserStoryState {
 
     @Override
     public void mover(UserStory us, Cargo cargo){

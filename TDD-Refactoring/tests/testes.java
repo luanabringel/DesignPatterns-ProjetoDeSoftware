@@ -1,4 +1,4 @@
-package testes;
+package tests;
 
 import src.Livro;
 import src.Sistema;

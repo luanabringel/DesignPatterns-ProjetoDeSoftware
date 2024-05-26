@@ -1,3 +1,5 @@
+package src;
+
 class Sms extends EnviarMensagem{
     
     public Sms(String destinatario, Mensagem tipoMensagem) {

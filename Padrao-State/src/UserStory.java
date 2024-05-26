@@ -1,3 +1,5 @@
+package src;
+
 public class UserStory {
     private UserStoryState state;
     private boolean aprovacao;

@@ -1,3 +1,5 @@
+package src;
+
 class Email extends EnviarMensagem{
     
     public Email(String destinatario, Mensagem tipoMensagem) {

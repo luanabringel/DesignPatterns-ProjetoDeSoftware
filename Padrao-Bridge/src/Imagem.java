@@ -1,3 +1,5 @@
+package src;
+
 class Imagem implements Mensagem {
     private String mensagem;
 
@@ -7,6 +9,6 @@ class Imagem implements Mensagem {
 
     @Override
     public String corpoMensagem() {
-        return "Mensagem em imagem: " + mensagem;
+        return "src.Mensagem em imagem: " + mensagem;
     }
 }
