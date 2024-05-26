@@ -1,0 +1,4 @@
+interface Mensagem {
+    
+    String corpoMensagem(); 
+}
