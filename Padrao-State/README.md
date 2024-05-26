@@ -1,3 +1,4 @@
+# Especificação:
 Na área de engenharia de software é comum o uso de metodologias de desenvolvimento
 ágeis como o Scrum. Projetos Scrum fazem uso de um Scrum Board (SB) para organizar o
 andamento das User Stories (USs). O Scrum possui dois papéis principais que podem ser
@@ -17,5 +18,5 @@ o estado Done. Caso não esteja aprovada ela passa para o estado ToDo.
 - Apenas o SM pode realizar essa mudança de estado. Nada acontece caso
 um desenvolvedor realize essa mudança.
 - No estado Done, se uma US é movida nada acontece.
-Com base no padrão State, implemente um sistema de Scrum Board em que USs podem
-ser movidas para diferentes estados com base nos critérios acima.
+
+Com base no padrão State, implemente um sistema de Scrum Board em que USs podem ser movidas para diferentes estados com base nos critérios acima.
