@@ -1,2 +1,2 @@
 # DesignPatterns-ProjetoDeSoftware
-Atividades avaliativas realizadas na disciplina "Projeto de Software" sobre padrões de projeto.
+Atividades avaliativas realizadas na disciplina "Projeto de Software" sobre padrões de projetos.
